@@ -1,0 +1,25 @@
+.maincontainer {
+	background-color: gray;
+}
+
+
+
+.container {
+	background-color: ;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+
+button {
+	color: red;
+	background-color: blue;
+	width: 200px;
+	height: 100px;
+	padding:1, solid;
+	margin: 200px;
+
+
+		
+}
