@@ -1,24 +1,33 @@
 .maincontainer {
-	background-color: gray;
+
+}
+
+.header {
+	font-size: 30px;
+	font-style: oblique;
+	margin-bottom: 100px;
+	display: flex;
+	justify-content: center;
 }
 
 
 
 .container {
-	background-color: ;
 	display: flex;
 	justify-content: space-around;
+	
 	
 }
 
 
-button {
-	color: red;
+.button {
 	background-color: blue;
-	width: 200px;
-	height: 100px;
-	padding:1, solid;
-	margin: 200px;
+	width: 300px;
+	height: 150px;
+	border-radius: 20px;
+}
+
+
 
 
 		
